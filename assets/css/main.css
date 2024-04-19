@@ -73,28 +73,22 @@ body{
 
 .about-us-container{
     color: black;
-    padding: 4em 1em;
     background: #f1f1f1;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: 1000px; 
+    max-width: 50%;
+    gap: 10em;
 }
 
 .laptop-logo{
     font-size: 10em;
-    /* padding-left: 2em;
-    padding-right: 1em;   */
-}
-
-.title-container{
-    /* padding-left: 2em; */
 }
 
 .title-about-us{
     font-size: 1.17em;
     font-weight: bold;
-    /* padding-bottom: 1em; */
+    padding-bottom: 2em;
 }
 
 .footer-container{

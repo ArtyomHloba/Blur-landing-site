@@ -77,12 +77,13 @@ body{
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: 50%;
-    gap: 10em;
+    max-width: 1000px;
+    gap: 1em
 }
 
 .laptop-logo{
     font-size: 10em;
+    text-align: center;
 }
 
 .title-about-us{
